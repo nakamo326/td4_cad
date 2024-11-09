@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TD4_footprint")(type "KiCad")(uri "${KIPRJMOD}/TD4_footprint")(options "")(descr ""))
+)
