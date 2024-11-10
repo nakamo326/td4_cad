@@ -1,4 +1,4 @@
-24191041126071221
+24192772371492571
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91549,6 +91549,13 @@ TD4_footprint
 DIP16
 
 CD74HC138E 
+0
+16
+16
+TD4_footprint
+DIP16_TOS
+
+tc74hc138apf 
 0
 16
 16
