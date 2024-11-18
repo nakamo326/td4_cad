@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UJC-HP-3-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/footprint_library/UJC-HP-3-SMT-TR.kicad_sym")(options "")(descr ""))
+)

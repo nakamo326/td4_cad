@@ -1,4 +1,4 @@
-24194504429389181
+24196238478675808
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97992,3 +97992,10 @@ SS-12D00G3
 0
 3
 3
+footprint_library
+UJC-HP-3-SMT-TR
+
+UJC-HP-3-SMT-TR 
+0
+10
+10
