@@ -3694,7 +3694,7 @@
 	)
 	(global_label "RESET"
 		(shape output)
-		(at 204.47 237.49 90)
+		(at 204.47 237.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3704,7 +3704,7 @@
 		)
 		(uuid "cd2e671f-6d3d-4957-a6df-6edd72dda5fd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.47 228.7597 90)
+			(at 213.2003 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
