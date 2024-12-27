@@ -4213,12 +4213,6 @@
 		(uuid "aafa3386-0fc1-43a7-aa15-835cc7ffa3dd")
 	)
 	(junction
-		(at 349.25 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ac70983c-d9fa-4484-9a95-0aee3ec976b1")
-	)
-	(junction
 		(at 182.88 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4601,12 +4595,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "df581764-b511-4e0c-bf2f-c6e8446fd9e5")
-	)
-	(junction
-		(at 349.25 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e000c804-49a9-4005-a9a7-5bd375ad9a98")
 	)
 	(junction
 		(at 119.38 132.08)
@@ -9503,16 +9491,6 @@
 			(type default)
 		)
 		(uuid "96cfbddf-6366-4d6d-8684-684be38ab688")
-	)
-	(wire
-		(pts
-			(xy 349.25 111.76) (xy 349.25 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9715b5d1-ac56-4fcb-8307-e26f42ff0b71")
 	)
 	(wire
 		(pts
@@ -17243,7 +17221,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 387.0452 119.38 0)
 			(effects
 				(font
@@ -22764,7 +22742,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 360.3752 119.38 0)
 			(effects
 				(font
@@ -27602,7 +27580,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 373.0752 119.38 0)
 			(effects
 				(font
