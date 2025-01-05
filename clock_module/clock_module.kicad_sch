@@ -2461,12 +2461,6 @@
 		(uuid "221bb5ab-24eb-4cdc-a4b7-6573991e3abe")
 	)
 	(junction
-		(at 163.83 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "224a3eda-ceeb-422e-b2a0-f40975e215ad")
-	)
-	(junction
 		(at 143.51 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2483,18 +2477,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "31917165-4f27-4353-8bbf-997edf606e6c")
-	)
-	(junction
-		(at 168.91 375.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "354b2dac-5e3e-41f4-b12f-c009459d9c50")
-	)
-	(junction
-		(at 163.83 375.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "417bef69-ba56-402a-8efb-050514a66032")
 	)
 	(junction
 		(at 109.22 375.92)
@@ -2599,12 +2581,6 @@
 		(uuid "ad10f1b5-32a3-4a2e-9b7b-b1ae54252d6a")
 	)
 	(junction
-		(at 168.91 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b223198b-55f1-4d01-b7bb-5d855cdb5620")
-	)
-	(junction
 		(at 46.99 241.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2615,12 +2591,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c5d1a5ef-a590-4d91-a725-b039b6f4db1e")
-	)
-	(junction
-		(at 173.99 375.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d0f071ce-47bd-45c3-be82-f6a7ff60faba")
 	)
 	(junction
 		(at 115.57 383.54)
@@ -2657,12 +2627,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f293e1b8-55ca-4326-87d6-c06738226334")
-	)
-	(junction
-		(at 173.99 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f7095b59-3f10-428d-876d-676e5a85bc0e")
 	)
 	(junction
 		(at 82.55 375.92)
@@ -2857,16 +2821,6 @@
 			(type default)
 		)
 		(uuid "2bd1fc84-958c-4224-a5ae-0518b7750f73")
-	)
-	(wire
-		(pts
-			(xy 163.83 375.92) (xy 168.91 375.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "317d0aae-e320-43c3-a866-7000531cb363")
 	)
 	(wire
 		(pts
@@ -3080,16 +3034,6 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 383.54) (xy 186.69 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c8ab47d-7b0c-4821-9151-f38184c3b812")
-	)
-	(wire
-		(pts
 			(xy 88.9 325.12) (xy 88.9 328.93)
 		)
 		(stroke
@@ -3097,16 +3041,6 @@
 			(type default)
 		)
 		(uuid "6d647dc6-df9f-448b-a520-7673c74127c5")
-	)
-	(wire
-		(pts
-			(xy 168.91 383.54) (xy 173.99 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f4fff2d-3261-4251-a98b-d4c278a3b6ed")
 	)
 	(wire
 		(pts
@@ -3360,16 +3294,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 375.92) (xy 173.99 375.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "add9ea12-5a0d-4244-81b8-1d86cc05a437")
-	)
-	(wire
-		(pts
 			(xy 96.52 370.84) (xy 96.52 375.92)
 		)
 		(stroke
@@ -3560,16 +3484,6 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 375.92) (xy 186.69 375.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df71b098-81a4-4349-9956-7b50b405df15")
-	)
-	(wire
-		(pts
 			(xy 96.52 383.54) (xy 96.52 396.24)
 		)
 		(stroke
@@ -3627,16 +3541,6 @@
 			(type default)
 		)
 		(uuid "f4887d66-4965-4e25-a1f5-c07c8a5f1899")
-	)
-	(wire
-		(pts
-			(xy 163.83 383.54) (xy 168.91 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb33f637-258a-4a2a-bab2-f653e5e025ba")
 	)
 	(wire
 		(pts
@@ -4004,7 +3908,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 55.372 386.08 90)
 			(effects
 				(font
@@ -4204,7 +4108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 67.31 282.448 90)
 			(effects
 				(font
@@ -4272,7 +4176,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 142.24 282.448 90)
 			(effects
 				(font
@@ -4340,7 +4244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 39.37 243.078 90)
 			(effects
 				(font
@@ -4585,75 +4489,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 186.69 379.73 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "50fc7350-c247-4469-b299-2543fb017abc")
-		(property "Reference" "C14"
-			(at 184.912 387.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 184.912 389.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
-			(at 187.6552 383.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 379.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 186.69 379.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2a1c8d08-0f3a-4a98-894e-f4945355048f")
-		)
-		(pin "2"
-			(uuid "1be184ee-7392-43a0-b617-dc84140740a2")
-		)
-		(instances
-			(project "clock_module"
-				(path "/032fabdd-6ebd-4efa-be5f-455eeacbbdfd"
-					(reference "C14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 109.22 379.73 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4813,7 +4648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 121.92 315.468 90)
 			(effects
 				(font
@@ -4883,7 +4718,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 87.122 308.61 90)
 			(effects
 				(font
@@ -4920,75 +4755,6 @@
 			(project ""
 				(path "/032fabdd-6ebd-4efa-be5f-455eeacbbdfd"
 					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 168.91 379.73 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5ecfa6b1-2848-4da4-accf-9b2d3e581c30")
-		(property "Reference" "C12"
-			(at 167.132 387.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 167.132 389.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
-			(at 169.8752 383.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 168.91 379.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 168.91 379.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "681fbab1-c4f3-4461-a88f-43d049635746")
-		)
-		(pin "2"
-			(uuid "55c92661-8f47-4082-b4ac-1e81c282e9b0")
-		)
-		(instances
-			(project "clock_module"
-				(path "/032fabdd-6ebd-4efa-be5f-455eeacbbdfd"
-					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -5089,7 +4855,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 123.19 243.078 90)
 			(effects
 				(font
@@ -5311,7 +5077,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 23.622 234.95 90)
 			(effects
 				(font
@@ -5378,7 +5144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 100.33 272.288 90)
 			(effects
 				(font
@@ -5616,7 +5382,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 101.6 315.468 90)
 			(effects
 				(font
@@ -5883,7 +5649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 100.33 267.208 90)
 			(effects
 				(font
@@ -6848,7 +6614,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 54.61 243.078 90)
 			(effects
 				(font
@@ -7054,6 +6820,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
@@ -7125,7 +6892,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 88.392 379.73 90)
 			(effects
 				(font
@@ -7401,7 +7168,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 52.832 386.08 90)
 			(effects
 				(font
@@ -7912,75 +7679,6 @@
 			(project ""
 				(path "/032fabdd-6ebd-4efa-be5f-455eeacbbdfd"
 					(reference "#PWR0105")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 173.99 379.73 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f69f44dd-84c8-4452-bbfc-ee19cfa78408")
-		(property "Reference" "C13"
-			(at 172.212 387.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 172.212 389.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
-			(at 174.9552 383.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 173.99 379.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 173.99 379.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f679ceb8-0ad2-47d4-82db-34c9f314d1be")
-		)
-		(pin "2"
-			(uuid "59ed576d-0efd-4a86-a56c-57e55aa5c4dc")
-		)
-		(instances
-			(project "clock_module"
-				(path "/032fabdd-6ebd-4efa-be5f-455eeacbbdfd"
-					(reference "C13")
 					(unit 1)
 				)
 			)
