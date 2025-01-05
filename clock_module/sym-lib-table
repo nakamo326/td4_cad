@@ -4,4 +4,6 @@
   (lib (name "74hc161")(type "KiCad")(uri "${KIPRJMOD}/footprint_library/74hc161.kicad_sym")(options "")(descr ""))
   (lib (name "74hc153")(type "KiCad")(uri "${KIPRJMOD}/footprint_library/74hc153.kicad_sym")(options "")(descr ""))
   (lib (name "74hc283")(type "KiCad")(uri "${KIPRJMOD}/footprint_library/74hc283.kicad_sym")(options "")(descr ""))
+  (lib (name "74hc32")(type "KiCad")(uri "${KIPRJMOD}/footprint_library/74hc32.kicad_sym")(options "")(descr ""))
+  (lib (name "74hc10")(type "KiCad")(uri "${KIPRJMOD}/footprint_library/74hc10.kicad_sym")(options "")(descr ""))
 )
