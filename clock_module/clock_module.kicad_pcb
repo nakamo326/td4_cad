@@ -15387,7 +15387,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a157e883-0c9e-4c41-a242-72e641ebf439")
-		(at 191.77 60.28 -90)
+		(at 195.08 60.12 -90)
 		(descr "Through hole angled socket strip, 1x08, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole angled socket strip THT 1x08 2.54mm single row")
 		(property "Reference" "J3"
@@ -15402,7 +15402,7 @@
 			)
 		)
 		(property "Value" "Conn_01x08_Socket"
-			(at -12.02 10.145 180)
+			(at -12.02 10.145 0)
 			(layer "F.Fab")
 			(uuid "18ea5560-c6ec-4f09-a7eb-1e04c68ea037")
 			(effects
@@ -16287,7 +16287,7 @@
 			(uuid "1fc54806-9fa1-4dd9-b868-34d1a9290800")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.775 8.89 360)
+			(at -5.775 8.89 0)
 			(layer "F.Fab")
 			(uuid "a97abf35-a0b3-4fa7-b6f3-e3bb7110d291")
 			(effects
@@ -17680,7 +17680,7 @@
 		(descr "4x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x12.34mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)")
 		(tags "DIP Switch SPST Slide 7.62mm 300mil")
 		(property "Reference" "SW5"
-			(at -2.54 3.81 360)
+			(at -2.54 3.81 0)
 			(layer "F.SilkS")
 			(uuid "44d156eb-0739-4fd3-b175-9346c838462d")
 			(effects
@@ -19187,7 +19187,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 7.27 3.81 360)
+			(at 7.27 3.81 0)
 			(layer "F.Fab")
 			(uuid "ec5a37da-854e-4b62-b68b-39d2a7ae9457")
 			(effects
@@ -19547,7 +19547,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ae7ff90d-35c8-48f4-98fa-07d027125d4b")
-		(at 120.015 60.28 -90)
+		(at 121.435 60.12 -90)
 		(descr "Through hole angled socket strip, 1x06, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole angled socket strip THT 1x06 2.54mm single row")
 		(property "Reference" "J2"
@@ -19562,7 +19562,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06_Socket"
-			(at -12.02 6.325 180)
+			(at -12.02 6.325 360)
 			(layer "F.Fab")
 			(uuid "1a693fba-7a83-43c8-a691-de1c9ecf1193")
 			(effects
@@ -20327,7 +20327,7 @@
 			(uuid "82716f2e-bfcb-4419-8a82-750da15841f6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.775 6.35 360)
+			(at -5.775 6.35 0)
 			(layer "F.Fab")
 			(uuid "57c1322f-a34f-4100-beea-f25358ff5841")
 			(effects
@@ -27906,6 +27906,39 @@
 		(fill none)
 		(layer "Edge.Cuts")
 		(uuid "71fc31ac-16f3-4bb5-bea1-87844571fb4b")
+	)
+	(dimension
+		(type aligned)
+		(layer "User.1")
+		(uuid "5bc85e36-6747-4cac-b5e4-dcdf023e7c6a")
+		(pts
+			(xy 175.53 49.52) (xy 123.235 49.57)
+		)
+		(height 8.70958)
+		(gr_text "52.2950 mm"
+			(at 149.373073 39.685425 0.05478130037)
+			(layer "User.1")
+			(uuid "5bc85e36-6747-4cac-b5e4-dcdf023e7c6a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
 	)
 	(segment
 		(start 142.95 139.99)
